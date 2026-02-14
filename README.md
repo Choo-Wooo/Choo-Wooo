@@ -45,6 +45,6 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=brightgreen&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=Choo-Wooo&color=brightgreen&style=flat-square)
 
 </div>
